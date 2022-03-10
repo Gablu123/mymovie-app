@@ -2,7 +2,7 @@ import React from 'react';
 import "./Header.css"
 
 const Header = () => {
-  return <span onClick={() => window.scroll(0,0)}className='header' > 🎬 Pirate Raid🎥</span>;
+  return <span onClick={() => window.scroll(0,0)}className='header' > 🎬 Sagnik Cybercube App🎥</span>;
 };
 
 export default Header;
